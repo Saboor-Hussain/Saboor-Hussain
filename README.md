@@ -69,10 +69,7 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-       <p>
-          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saboor-Hussain&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
-      </p>
-
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saboor-Hussain&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
       </p>
     </td>
     <td width="50%">
