@@ -35,8 +35,9 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
 ### Badges
 
 <b>My GitHub Stats</b>
-
 <a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-stats.vercel.app/api?username=Saboor-Hussain&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saboor-Hussain's GitHub stats" /></a>
+
+<a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saboor-Hussain&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saboor-Hussain&bg_color=1c1917&color=facc15&line=0891b2&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
