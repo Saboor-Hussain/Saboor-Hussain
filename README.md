@@ -1,15 +1,25 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="30px"> My name is Saboor Hussain</h1>
+<hr style="border: 2px solid black;">
+<h2 align="center">Full-Stack Developer, Gen-AI Engineer</h2>
 
-<h2 align= "center">Full-Stack Developer , Gen-AI Engineer</h2>
-
----
 
 Greetings! I am Saboor Hussain, an adept Full-Stack Developer and proficient Gen AI Engineer, deeply dedicated to crafting ingenious solutions and delving into the boundless realm of technology. As a professional in Full-Stack Web Development and Gen AI Engineering, I am continually immersed in the exploration of emerging technologies, striving to refine my expertise to conceive innovative solutions that seamlessly merge creativity with functionality. You can explore a showcase of my projects on my professional portfolio, [Sash Portfolio](https://sash-portfolio-app.vercel.app/). Please don't hesitate to connect with me for any inquiries or collaboration opportunities; I am always eager to assist and engage in meaningful projects. If you're interested in learning more about my professional journey and experiences, feel free to peruse my LinkedIn profile: [Saboor Hussain](https://www.linkedin.com/in/saboor-hussain-11620a204/). On a personal note, I firmly believe in the power of determination and resilience; together, let's inspire one another to achieve remarkable feats and soar to new heights of success!
 
---- 
+🌍 Based in Karachi, Pakistan
 
-- 🌍  I'm based in Karachi, Pakistan
-- 🧠  I'm learning As a Full-Stack Web Developer and Gen AI Engineer, I'm constantly exploring new technologies and refining my skills to create cutting-edge solutions that blend creativity and functionality.
+🧠 I'm constantly exploring new technologies and refining my skills to create cutting-edge solutions that blend creativity and functionality.
+
+👨‍💻 You can find all of my projects showcased on my portfolio: [Sash Portfolio](https://sash-portfolio-app.vercel.app/)
+
+💬 Feel free to reach out to me about anything you need; I'm always happy to help and collaborate!
+
+📄 Curious about my experiences and professional journey? Check out my LinkedIn profile: [Saboor Hussain](https://www.linkedin.com/in/saboor-hussain-11620a204/)
+
+⚡ Fun fact: I firmly believe that you can achieve anything you set your mind to – let's inspire each other to reach new heights!
+
+
+
+Let me know if you need any further adjustments!
 
 <a href="https://www.github.com/Saboor-Hussain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -29,7 +39,5 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-stats.vercel.app/api?username=Saboor-Hussain&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saboor-Hussain's GitHub stats" /></a>
-
-<a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saboor-Hussain&bg_color=1c1917&color=facc15&line=0891b2&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Saboor-Hussain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboor-Hussain&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
