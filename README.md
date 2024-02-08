@@ -29,26 +29,8 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
 
 <p align="left"> <a href="https://www.github.com/Saboor-Hussain" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saboor-hussain-11620a204/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-
-<a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-stats.vercel.app/api?username=Saboor-Hussain&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saboor-Hussain's GitHub stats" /></a>
 
 ### GITHUB STATS
-
-
-<div style="display: flex; justify-content: center;">
-  <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="margin-right: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
-      <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
-    </picture>
-  </a>
-
-  <a href="http://www.github.com/Saboor-Hussain" style="margin-left: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saboor-Hussain&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-  </a>
-</div>
 
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="_blank" style="display: block" align="center">
@@ -57,7 +39,6 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
     <img alt="Lines of Code Changes of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saboor-Hussain&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 
@@ -90,7 +71,7 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Saboor-Hussain/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Saboor-Hussain&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
