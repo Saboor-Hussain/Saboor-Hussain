@@ -16,9 +16,6 @@ Greetings! I am Saboor Hussain, an adept Full-Stack Developer and proficient Gen
 ⚡ Fun fact: I firmly believe that you can achieve anything you set your mind to – let's inspire each other to reach new heights!
 
 
-
-Let me know if you need any further adjustments!
-
 <a href="https://www.github.com/Saboor-Hussain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -34,11 +31,28 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
 
 ### Badges
 
-<b>My GitHub Stats</b>
+
 <a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-stats.vercel.app/api?username=Saboor-Hussain&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saboor-Hussain's GitHub stats" /></a>
 
-<a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saboor-Hussain&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+### GITHUB STATS
 
-<a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saboor-Hussain&bg_color=1c1917&color=facc15&line=0891b2&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Lines of Code Changes of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+
+<a href="http://www.github.com/Saboor-Hussain"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saboor-Hussain&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="https://github.com/Saboor-Hussain" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboor-Hussain&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
