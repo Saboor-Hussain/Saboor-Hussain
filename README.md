@@ -36,15 +36,12 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Saboor-Hussain/count.svg)" />  
+  <img src="https://profile-counter.glitch.me/Saboor-Hussain/count.svg" />  
 </p>
 
 
-
-### GITHUB STATS
-
 <!--Github stats Table--> 
-<br>
+<br />
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -70,7 +67,7 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
     <td width="50%">
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saboor-Hussain&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saboor-Hussain&show_icons=true&locale=en&theme=gruvbox" alt="Top Languages" />
       </p>
     </td>
     <td width="50%">
