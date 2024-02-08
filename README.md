@@ -2,7 +2,11 @@
 
 <h2 align= "center">Full-Stack Developer , Gen-AI Engineer</h2>
 
-Hey there! I'm Saboor Hussain, a Full-Stack Developer and Gen AI Engineer passionate about creating innovative solutions and exploring the endless possibilities of technology. 🌱 As a Full-Stack Web Developer and Gen AI Engineer, I'm constantly exploring new technologies and refining my skills to create cutting-edge solutions that blend creativity and functionality. 👨‍💻 You can find all of my projects showcased on my portfolio: \[Sash Portfolio\](https://sash-portfolio-app.vercel.app/) 💬 Feel free to reach out to me about anything you need; I'm always happy to help and collaborate! 📄 Curious about my experiences and professional journey? Check out my LinkedIn profile: \[Saboor Hussain\](https://www.linkedin.com/in/saboor-hussain-11620a204/) ⚡ Fun fact: I firmly believe that you can achieve anything you set your mind to – let's inspire each other to reach new heights!
+---
+
+Greetings! I am Saboor Hussain, an adept Full-Stack Developer and proficient Gen AI Engineer, deeply dedicated to crafting ingenious solutions and delving into the boundless realm of technology. As a professional in Full-Stack Web Development and Gen AI Engineering, I am continually immersed in the exploration of emerging technologies, striving to refine my expertise to conceive innovative solutions that seamlessly merge creativity with functionality. You can explore a showcase of my projects on my professional portfolio, [Sash Portfolio](https://sash-portfolio-app.vercel.app/). Please don't hesitate to connect with me for any inquiries or collaboration opportunities; I am always eager to assist and engage in meaningful projects. If you're interested in learning more about my professional journey and experiences, feel free to peruse my LinkedIn profile: [Saboor Hussain](https://www.linkedin.com/in/saboor-hussain-11620a204/). On a personal note, I firmly believe in the power of determination and resilience; together, let's inspire one another to achieve remarkable feats and soar to new heights of success!
+
+--- 
 
 - 🌍  I'm based in Karachi, Pakistan
 - 🧠  I'm learning As a Full-Stack Web Developer and Gen AI Engineer, I'm constantly exploring new technologies and refining my skills to create cutting-edge solutions that blend creativity and functionality.
