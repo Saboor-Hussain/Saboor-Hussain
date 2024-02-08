@@ -30,17 +30,18 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
 <p align="left"> <a href="https://www.github.com/Saboor-Hussain" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saboor-hussain-11620a204/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Saboor-Hussain/count.svg)" />  
+</p>
+
+
+
 ### GITHUB STATS
-
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Lines of Code Changes of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-
 
 <!--Github stats Table--> 
 <br>
@@ -52,7 +53,7 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Saboor-Hussain">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saboor-Hussain&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saboor-Hussain&count_private=true&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -60,7 +61,7 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Saboor-Hussain">
-          <img align="center" src="https://streak-stats.demolab.com?user=Saboor-Hussain&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Saboor-Hussain&theme=gruvbox" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -76,7 +77,7 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Saboor-Hussain">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Saboor-Hussain&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Saboor-Hussain&limit=3&theme=gruvbox&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -84,4 +85,3 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
 </table>
 <br />
 
-<!--Contribution Graph-->
