@@ -40,11 +40,10 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
   </picture>
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saboor-Hussain&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-
 
 
 <!--Github stats Table--> 
+<br>
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -70,9 +69,10 @@ src="https://img.shields.io/github/followers/Saboor-Hussain?logo=github&style=fo
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Saboor-Hussain/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Saboor-Hussain&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
+       <p>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saboor-Hussain&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
+      </p>
+
       </p>
     </td>
     <td width="50%">
